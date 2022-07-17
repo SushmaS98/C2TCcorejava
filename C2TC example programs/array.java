@@ -1,6 +1,6 @@
 
-/*import java.util.Scanner;
-public class Main {
+import java.util.Scanner;
+public class array {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
@@ -32,7 +32,9 @@ public class Main {
 	}
 
 }
-*/
+
+
+
 /* import java.util.Scanner;
 public class Main {
 
@@ -174,6 +176,8 @@ public class Main
 }
 */
 /* Transpose of a Matrix*/
+
+/*
 import java.util.Scanner;
 public class array {
 
@@ -202,3 +206,7 @@ public class array {
 		}
 	}
 }
+*/
+
+
+
